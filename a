@@ -1,7 +1,0 @@
-getgenv (). AuthKey = "HUGE_IASnTApIiagpV5AG"
-getgenv (). LoadSettings ={
-UseSeperateSaves= false,
-DisableStartupPrompt= false,
-DisableGamepassCheck= false,
-}
-loadstring ( game : HttpGet ( "https://hugegames.io/psx" ))()
